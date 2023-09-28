@@ -2,4 +2,4 @@
 
 - 🏫 I'm a third year reading mathematics at University of Oxford
 - 📫 How to reach me: TobyTYLam@gmail.com
-- ⚡ Fun fact: I have a blog at [tobylam.xyz](https://www.tobylam.xyz/) ! (Thx github for hosting it for free)
+- ⚡ Fun fact: I have a blog at [tobylam.xyz](https://www.tobylam.xyz/) ! (Thx cloudflare for hosting it for free)
